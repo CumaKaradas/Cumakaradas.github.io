@@ -66,7 +66,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 Cuma Karadas ile iletişime geçmek için aşağıdaki sosyal medya hesaplarını kullanabilirsiniz:
 
 - [YouTube](https://www.youtube.com/@CumaKaradash)
-- [GitHub](https://github.com/CumaKaradash)
+- [GitHub](https://github.com/CumaKaradas)
 - [LinkedIn](https://www.linkedin.com/in/cuma-karada%C5%9F-0a5092261/)
 - [Pinterest](https://tr.pinterest.com/PogacaSevenOrdek/)
 
